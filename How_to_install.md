@@ -14,13 +14,10 @@
 ## 2.安装依赖
 打开cmd或powershell    
 输入
-'''txt
-pip3 install requests
-pip3 install json
-'''
+pip3 install requests  
+pip3 install json  
+
 ## 3.运行  
 在下载目录的根目录下（即有score.py的目录下，按住Shift右键，点击在命令提示符/PowerShell中输入  
-'''txt
-python score.py
-'''
+python score.py  
 按提示操作即可
