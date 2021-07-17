@@ -13,7 +13,7 @@
 在系统变量下的Path添加C:\Program Files\Python\Python38\Scripts\和C:\Program Files\Python\Python38\  
 ## 2.安装依赖
 打开cmd或powershell    
-输入
+输入  
 pip3 install requests  
 pip3 install json  
 
