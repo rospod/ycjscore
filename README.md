@@ -3,4 +3,5 @@
 无法使用'-'查询多科成绩，懒得修了  
 知道如何修的请pull requests（毕竟我是python菜鸡）  
 目前仅能查询总分页面，其他页面等我更新（除bug）  
-使用教程看How_to_use.md
+使用教程看How_to_install.md。
+## 因该项目有被一锅端的可能，(请添加tg群下载)[https://t.me/ycjscore]
